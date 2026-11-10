@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#data files
+*.csv
+
+#outut directories
+3dcloud-fcn-baseline/
